@@ -2,3 +2,4 @@
 ## Version Control Systems
 Git Repository
 Working Copy
+Staging Area
